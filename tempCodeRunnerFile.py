@@ -1,0 +1,1 @@
+self._info[object_name].dropna().astype(str).tolist()

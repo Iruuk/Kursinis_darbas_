@@ -1,0 +1,36 @@
+Race;Class;Abilities;Armour;Weapon
+human;ranger;Strenght;padded;club
+elf;rogue;Dexterity;leather;dagger
+orck;wizard;Constitution;studded leather;greatclub
+tiefling;barbarian;Intelligence;hide;handaxe
+dwarf;cleric;Wisdom;chain shirt;javelin
+halfling;bard;Charisma;scale mail;light hammer
+dragonborn;druid;;breastplate;mace
+gnome;fighter;;half plate;quaterstaff
+;sorcerer;;ring mail;sickle
+;paladin;;chain mail;spear
+;monk;;splint;crossbow
+;warlock;;plate;dart
+;artificier;;shield;shortbow
+;bloodhunter;;none;sling
+;;;;battleaxe
+;;;;flail
+;;;;glaive
+;;;;greataxe
+;;;;greatsword
+;;;;halberd
+;;;;lance
+;;;;longsword
+;;;;maul
+;;;;morningstar
+;;;;pike
+;;;;rapier
+;;;;scimitar
+;;;;shortsword
+;;;;trident
+;;;;war pick
+;;;;warhammer
+;;;;whip
+;;;;blowgun
+;;;;longbow
+;;;;net

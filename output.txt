@@ -1,0 +1,59 @@
+Player: Bananek
+Character name: Morbius
+Level: 2
+Race: tiefling
+Class: bloodhunter
+Hit Points: 19
+Inventory Items:
+padded
+scimitar
+Abilities and Modifiers:
+Strenght: 11 (Modifier: 0)
+Dexterity: 15 (Modifier: 2)
+Constitution: 12 (Modifier: 1)
+Intelligence: 10 (Modifier: 0)
+Wisdom: 16 (Modifier: 3)
+Charisma: 9 (Modifier: 0)
+
+
+
+Player: Tom
+Character name: Sigurd
+Level: 3
+Race: dwarf
+Class: rogue
+Hit Points: 20
+Inventory Items:
+padded
+shortsword
+Abilities and Modifiers:
+Strenght: 12 (Modifier: 1)
+Dexterity: 17 (Modifier: 4)
+Constitution: 12 (Modifier: 1)
+Intelligence: 8 (Modifier: -1)
+Wisdom: 12 (Modifier: 1)
+Charisma: 16 (Modifier: 3)
+
+
+
+
+Player: Roberto
+Character name: Antonio
+Level: 1
+Race: human
+Class: bloodhunter
+Hit Points: 10
+Inventory Items:
+plate
+shortsword
+Abilities and Modifiers:
+Strenght: 9 (Modifier: 0)
+Dexterity: 3 (Modifier: -4)
+Constitution: 16 (Modifier: 3)
+Intelligence: 11 (Modifier: 0)
+Wisdom: 14 (Modifier: 2)
+Charisma: 12 (Modifier: 1)
+
+
+
+
